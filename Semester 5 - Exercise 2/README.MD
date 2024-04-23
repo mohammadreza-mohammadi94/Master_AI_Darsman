@@ -19,13 +19,15 @@
   
 # فایل Exercise_2_Modelling
 در این فایل , موارد زیر بررسی و انجام شده است 
-   
 
-1. مدل سازی یادگیری ماشین:   
-    a. `Single Variable Linear Regression`    
-    b. `Multivariable Linear Regression`  
-    c. `Polynomial Regression`  
-    d. `Ridge & Lasso Regression`  
-    e. `ElasticNet Regression`
-2. انتخاب هایپر پارامتر ها  
+
+1. مدل سازی یادگیری ماشین:
+
+    - `Single Variable Linear Regression`  
+    - `Multivariable Linear Regression`  
+    - `Polynomial Regression`  
+    - `Ridge & Lasso Regression`  
+    - `ElasticNet Regression`  
+
+2. انتخاب هایپر پارامتر ها
 3. رسم نمودار و مقایسه داده های اموزش و تست برای هی مدل
